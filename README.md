@@ -7,8 +7,7 @@ Core dependencies: Python 3.10 and PyTorch 1.12.1. See requirements.txt for addi
 pip install -r requirements.txt
 ```
 ## Datasets
-This work primarily uses the ```EvTouch-Objects``` and ```EvTouch-Containers``` tactile datasets, consisting of 36 and 20 classes respectively.  
-For detailed information about these datasets, please refer to [TactileSGNet](https://github.com/clear-nus/TactileSGNet).
+This work primarily uses the ```EvTouch-Objects``` and ```EvTouch-Containers``` tactile datasets, consisting of 36 and 20 classes respectively. For detailed information about these datasets, please refer to [TactileSGNet](https://github.com/clear-nus/TactileSGNet).
 ## File description
 * ```/data/:``` Contains raw files for both tactile datasets (EvTouch-Objects and EvTouch-Containers).
 * ```dataset.py:``` Loads two tactile datasets.
@@ -16,6 +15,9 @@ For detailed information about these datasets, please refer to [TactileSGNet](ht
 * ```SharedMultiBarrel4EvTask.py:``` Train a multi-barrel model with 39 barrels sharing training parameters.
 * ```SingleBarrel4EvTask.py:``` Train a single-barrel model with neuron count matching the above two models.
 * ```utils.py:``` Some auxiliary modules in the model (e.g., single-neuron dynamics).
+* ```MultiBarrel_simulate.py:``` Simulate optogenetic experiments to observe the spread of neural activity.
+* ```Model_lossLandscape.py:``` Visualize the loss landscape of models.
+* ```MultiBarrel_propagation.py:``` Measure neural activity correlation between barrels.
 ## Run
 One-click execution: run the corresponding .py file directly. For example:
 ```python
