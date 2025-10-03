@@ -1,0 +1,110 @@
+aiohappyeyeballs==2.6.1
+aiohttp==3.11.14
+aiosignal==1.3.2
+async-timeout==5.0.1
+attrs==25.1.0
+audioread==3.0.1
+autocommand==2.2.2
+backports.tarfile==1.2.0
+blosc2==2.7.1
+Bottleneck @ file:///croot/bottleneck_1707864210935/work
+Brotli @ file:///croot/brotli-split_1714483155106/work
+certifi @ file:///croot/certifi_1738623731865/work/certifi
+cffi==1.17.1
+charset-normalizer @ file:///croot/charset-normalizer_1721748349566/work
+click==8.1.7
+contourpy @ file:///croot/contourpy_1700583582875/work
+cycler @ file:///tmp/build/80754af9/cycler_1637851556182/work
+DCLS==0.1.1
+decorator==5.1.1
+dill==0.3.9
+docker-pycreds==0.4.0
+fonttools @ file:///croot/fonttools_1713551344105/work
+frozenlist==1.5.0
+fsspec==2025.3.0
+future==1.0.0
+gitdb==4.0.11
+GitPython==3.1.43
+h5py==3.12.1
+idna @ file:///croot/idna_1714398848350/work
+importlib_metadata==8.0.0
+importlib_resources==6.4.0
+inflect==7.3.1
+jaraco.collections==5.1.0
+jaraco.context==5.3.0
+jaraco.functools==4.0.1
+jaraco.text==3.12.1
+Jinja2==3.1.6
+joblib @ file:///croot/joblib_1718217211762/work
+kiwisolver @ file:///croot/kiwisolver_1672387140495/work
+klepto==0.2.6
+lazy_loader==0.4
+librosa==0.10.2.post1
+llvmlite @ file:///croot/llvmlite_1736366675558/work
+MarkupSafe==3.0.2
+matplotlib==3.9.2
+mkl-service==2.4.0
+mkl_fft @ file:///croot/mkl_fft_1725370245198/work
+mkl_random @ file:///croot/mkl_random_1725370241878/work
+more-itertools==10.3.0
+msgpack==1.1.0
+multidict==6.2.0
+narwhals @ file:///croot/narwhals_1742845957875/work
+ndindex==1.9.2
+numba @ file:///croot/numba_1738606613869/work
+numexpr==2.10.1
+numpy @ file:///work/mkl/numpy_and_numpy_base_1682952636358/work
+packaging==24.1
+pandas==1.4.3
+pillow @ file:///croot/pillow_1721059439630/work
+platformdirs==4.2.2
+plotly @ file:///croot/plotly_1744960868503/work
+ply==3.11
+pooch==1.8.2
+pox==0.3.5
+propcache==0.3.0
+protobuf==5.28.3
+psutil==6.1.0
+py-cpuinfo==9.0.0
+pycparser==2.22
+pynndescent @ file:///croot/pynndescent_1685342030133/work
+pyparsing @ file:///croot/pyparsing_1725041624202/work
+PyQt5==5.15.10
+PyQt5-sip @ file:///croot/pyqt-split_1698769088074/work/pyqt_sip
+PySocks @ file:///home/builder/ci_310/pysocks_1640793678128/work
+pyswarm==0.6
+pyswarms==1.3.0
+python-dateutil @ file:///croot/python-dateutil_1716495738603/work
+pytz @ file:///croot/pytz_1713974312559/work
+PyYAML==6.0.2
+requests @ file:///croot/requests_1721410876868/work
+scikit-learn==1.5.2
+scipy @ file:///croot/scipy_1717521478074/work/dist/scipy-1.13.1-cp310-cp310-linux_x86_64.whl#sha256=c73757af21f88127db3e72c16ee95d5a104ebd533b662667d352c0765772cf83
+seaborn @ file:///croot/seaborn_1738256900200/work
+sentry-sdk==2.18.0
+setproctitle==1.3.3
+sip @ file:///croot/sip_1698675935381/work
+six @ file:///tmp/build/80754af9/six_1644875935023/work
+smmap==5.0.1
+soundfile==0.12.1
+soxr==0.5.0.post1
+spikingjelly==0.0.0.0.15
+tables==3.10.1
+threadpoolctl @ file:///croot/threadpoolctl_1719407800858/work
+tomli==2.0.1
+torch==1.12.1
+torch-geometric==2.6.1
+torchaudio==0.12.1
+torchvision==0.13.1
+tornado @ file:///croot/tornado_1718740109488/work
+tqdm==4.66.6
+typeguard==4.3.0
+typing_extensions==4.12.2
+tzdata==2024.2
+umap-learn @ file:///croot/umap-learn_1696942523449/work
+unicodedata2 @ file:///croot/unicodedata2_1713212950228/work
+urllib3 @ file:///croot/urllib3_1727769808118/work
+wandb==0.18.5
+wfdb==4.1.2
+yarl==1.18.3
+zipp==3.19.2
