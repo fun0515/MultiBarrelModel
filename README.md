@@ -10,12 +10,12 @@ pip install -r requirements.txt
 This work primarily uses the ```EvTouch-Objects``` and ```EvTouch-Containers``` tactile datasets, consisting of 36 and 20 classes respectively.  
 For detailed information about these datasets, please refer to [TactileSGNet](https://github.com/clear-nus/TactileSGNet).
 ## File description
-* */data/*: Contains raw files for both tactile datasets (EvTouch-Objects and EvTouch-Containers).
-* *dataset.py*: Loads two tactile datasets.
-* *MultiBarrel4EvTask.py*: Trains a multi-barrel model with 39 independently parameterized barrels.
-* *SharedMultiBarrel4EvTask.py*: Trains a multi-barrel model with 39 barrels sharing training parameters.
-* *SingleBarrel4EvTask.py*: Trains a single-barrel model with neuron count matching the above two models.
-* *utils.py*: Auxiliary modules (e.g., single-neuron dynamics).
+* ```/data/:``` Contains raw files for both tactile datasets (EvTouch-Objects and EvTouch-Containers).
+* ```dataset.py:``` Loads two tactile datasets.
+* ```MultiBarrel4EvTask.py:``` Train a multi-barrel model with 39 independently parameterized barrels.
+* ```SharedMultiBarrel4EvTask.py:``` Train a multi-barrel model with 39 barrels sharing training parameters.
+* ```SingleBarrel4EvTask.py:``` Train a single-barrel model with neuron count matching the above two models.
+* ```utils.py:``` Some auxiliary modules in the model (e.g., single-neuron dynamics).
 ## Run
 One-click execution: run the corresponding .py file directly. For example:
 ```python
