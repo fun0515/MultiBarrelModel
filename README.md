@@ -1,5 +1,5 @@
-![这是图片](MultiBarrelModel_outline.png "Magic Gardens")
 # MultiBarrelModel
+![这是图片](MultiBarrelModel_outline.png "Magic Gardens")
 Code submission for our paper 'Localist Topographic Expert Routing: A Barrel Cortex-Inspired Modular Network for Sensorimotor Processing'. **Please raise any questions related to the code.**
 ## Dependency
 Core dependencies: Python 3.10 and PyTorch 1.12.1. See requirements.txt for additional packages. Run
