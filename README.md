@@ -40,5 +40,5 @@ Load the trained model weights to calculate both global and local neural activit
 python MulitBarrel_Propagation.py
 ```
 ## Citation
-If you find this work useful, please cite:
-**Please raise any questions related to the code.**
+If you find this work useful, please cite:  
+**Feel free to raise any questions related to the work.**
