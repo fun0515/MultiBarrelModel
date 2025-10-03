@@ -7,7 +7,8 @@ Core dependencies: Python 3.10 and PyTorch 1.12.1. See requirements.txt for addi
 pip install -r requirements.txt
 ```
 ## Datasets
-
+This work primarily uses the ```EvTouch-Objects``` and ```EvTouch-Containers``` tactile datasets, consisting of 36 and 20 classes respectively.  
+For detailed information about these datasets, please refer to [TactileSGNet](https://github.com/clear-nus/TactileSGNet).
 ## File description
 * */data/*: Contains raw files for both tactile datasets (EvTouch-Objects and EvTouch-Containers).
 * *dataset.py*: Loads two tactile datasets.
