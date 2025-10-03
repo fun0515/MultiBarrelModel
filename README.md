@@ -1,3 +1,4 @@
+![这是图片](MultiBarrelModel_outline.png "Magic Gardens")
 # MultiBarrelModel
 Code submission for our paper 'Localist Topographic Expert Routing: A Barrel Cortex-Inspired Modular Network for Sensorimotor Processing'. **Please raise any questions related to the code.**
 ## Dependency
