@@ -6,6 +6,8 @@ Core dependencies: Python 3.10 and PyTorch 1.12.1. See requirements.txt for addi
 ```bash
 pip install -r requirements.txt
 ```
+## Datasets
+
 ## File description
 * */data/*: Contains raw files for both tactile datasets (EvTouch-Objects and EvTouch-Containers).
 * *dataset.py*: Loads two tactile datasets.
