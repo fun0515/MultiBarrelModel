@@ -40,5 +40,15 @@ Load the trained model weights to calculate both global and local neural activit
 python MulitBarrel_Propagation.py
 ```
 ## Citation
-If you find this work useful, please cite:  
-**Feel free to raise any questions related to the work.**
+If you find this work useful, please cite:
+```
+@inproceedings{  
+2025localist,  
+title={Localist Topographic Expert Routing: A Barrel Cortex-Inspired Modular Network for Sensorimotor Processing},  
+author={Tianfang Zhu and Dongli Hu and Jiandong Zhou and Kai Du and Anan LI},  
+booktitle={The Thirty-ninth Annual Conference on Neural Information Processing Systems},  
+year={2025},  
+url={https://openreview.net/forum?id=1Y8MXuJlIY}  
+}
+```
+**Feel free to raise any questions related to this work.**
